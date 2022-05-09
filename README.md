@@ -1,2 +1,2 @@
 # Blockchain-Reading-List
-Collection of papers about Blockchain
+Papers about blockchain
